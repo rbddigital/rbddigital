@@ -1,4 +1,7 @@
-## Hi there 👋
+# RBD digital
+
+We build games, software tools, and interactive experiences.  
+Follow our dev journey in the [RBD digital Journal](https://rbd.digital).
 
 <!--
 **rbddigital/rbddigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
